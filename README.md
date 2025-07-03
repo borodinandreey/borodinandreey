@@ -71,9 +71,9 @@
 ### 📌 Manual
 
 ### 🤖 Auto
-- [UI Tests](https://github.com/borodinandreey/ui_python_autotests)
-- [API Tests](https://github.com/borodinandreey/api_python_autotests)
-- [Unit Tests](https://github.com/borodinandreey/unit_python_autotests)
+- [UI python tests](https://github.com/borodinandreey/ui_python_autotests)
+- [API python tests](https://github.com/borodinandreey/api_python_autotests)
+- [Unit python tests](https://github.com/borodinandreey/unit_python_autotests)
 ---
 
 ⭐️ Спасибо, что заглянули! Если хотите обсудить сотрудничество — пишите в [Telegram](https://t.me/borodin_and).
