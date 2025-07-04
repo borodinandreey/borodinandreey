@@ -70,8 +70,8 @@
 
 ### 📌 Manual
 
-- [Тест кейсы](https://github.com/borodinandreey/borodinandreey/blob/main/bug_reports.md)
-- [Баг репорты](https://github.com/borodinandreey/borodinandreey/blob/main/test_cases.md)
+- [Тест кейсы](https://github.com/borodinandreey/borodinandreey/blob/main/test_cases.md)
+- [Баг репорты](https://github.com/borodinandreey/borodinandreey/blob/main/bug_reports.md)
 
 ### 🤖 Auto
 - [UI python tests](https://github.com/borodinandreey/ui_python_autotests)
