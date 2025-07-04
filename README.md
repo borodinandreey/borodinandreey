@@ -70,6 +70,9 @@
 
 ### 📌 Manual
 
+- [Тест кейсы](https://github.com/borodinandreey/ui_python_autotests)
+- [Баг репорты](https://github.com/borodinandreey/api_python_autotests)
+
 ### 🤖 Auto
 - [UI python tests](https://github.com/borodinandreey/ui_python_autotests)
 - [API python tests](https://github.com/borodinandreey/api_python_autotests)
