@@ -77,6 +77,7 @@
 - [UI python tests](https://github.com/borodinandreey/ui_python_autotests)
 - [API python tests](https://github.com/borodinandreey/api_python_autotests)
 - [Unit python tests](https://github.com/borodinandreey/unit_python_autotests)
+- [Appium python tests](https://github.com/borodinandreey/appium_python_tests#)
 ---
 
 ⭐️ Спасибо, что заглянули! Если хотите обсудить сотрудничество — пишите в [Telegram](https://t.me/borodin_and).
